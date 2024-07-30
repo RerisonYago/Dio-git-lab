@@ -1,0 +1,18 @@
+
+Generative AI models:
+Types and use cases
+
+Generative adversarial networks (GANs)
+Realistic images and videos
+
+Transformers
+Predictive text and speech recognition
+
+Variational autoencoders (VAEs)
+Images and text
+
+Flow-based models
+Images, audio, and video
+
+Recurrent neural networks (RNNs)
+Speech recognition and natural language processing

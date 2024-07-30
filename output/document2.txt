@@ -1,0 +1,23 @@
+
+AI (artificial intelligence)
+Technology enabling machines to emulate human cognitive abilities
+
+Generative AI
+Creates new content based on training data
+
+Text Based
+Large Language models generating human-like text
+OpenAI
+Google
+Meta
+ChatGpt
+Bard
+Llama 2
+
+Image Generation
+Visual content created by diffusion models
+Midjourney
+DALL.E 2
+Stable diffusion
+
+D Kolb
